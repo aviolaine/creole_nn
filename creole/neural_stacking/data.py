@@ -17,8 +17,8 @@ class Dictionary(object):
                 self.idx2word.append(word)
                 self.word2idx[word] = len(self.idx2word) - 1
         else:
-            self.pretrain_vec.append(vec)
             if word not in self.word2idx:
+                self.pretrain_vec.append(vec)
                 self.idx2word.append(word)
                 self.word2idx[word] = len(self.idx2word) - 1
         return self.word2idx[word]
@@ -92,7 +92,7 @@ class Corpus(object):
     def tokenize(self, path):
         """Tokenizes a text file."""
         assert os.path.exists(path)
-        Add words to the dictionary
+        #Add words to the dictionary
         with open(path, 'r') as f:
             tokens = 0
             for line in f:
@@ -108,7 +108,7 @@ class Corpus(object):
             for line in f:
                 words = line.split() + ['<eos>']
                 for word in words:
-                    if word not in word2idx:
+                    if word not in self.dictionary.word2idx:
                         word = '<UNK>'
                     ids[token] = self.dictionary.word2idx[word]
                     token += 1
