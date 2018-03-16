@@ -42,6 +42,8 @@ parser.add_argument('--log-interval', type=int, default=200, metavar='N',
                     help='report interval')
 parser.add_argument('--save', type=str,  default='model.pt',
                     help='path to save the final model')
+parser.add_argument('--lang', type=str, default='srn.pt',
+			help='which lang')
 args = parser.parse_args()
 
 # Set the random seed manually for reproducibility.
@@ -56,8 +58,9 @@ if torch.cuda.is_available():
 # Load data
 ###############################################################################
 
-#corpus = data.Corpus(args.data,'./data/pap')
-corpus = data.Corpus(args.data, None)
+args.data = './data/'+args.lang
+corpus = data.Corpus(args.data, args.lang)
+#corpus = data.Corpus(args.data, None)
 
 # Starting from sequential data, batchify arranges the dataset into columns.
 # For instance, with the alphabet as the sequence and batch size 4, we'd get
@@ -204,11 +207,13 @@ try:
         else:
             # Anneal the learning rate if no improvement has been seen in the validation dataset.
             lr /= 4.0
+    import matplotlib
+    matplotlib.use('agg')
     import matplotlib.pyplot as plt
     fig = plt.figure()
     plt.plot(x,y)
-    plt.title('pap baseline')
-    fig.savefig('pap baseline.png')   # save the figure to file
+    plt.title(args.lang + 'baseline')
+    fig.savefig(args.lang + 'baseline.png')   # save the figure to file
     plt.close(fig)    # close the figure
 except KeyboardInterrupt:
     print('-' * 89)
