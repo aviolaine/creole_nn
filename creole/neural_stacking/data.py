@@ -22,37 +22,41 @@ class Dictionary(object):
                 self.idx2word.append(word)
                 self.word2idx[word] = len(self.idx2word) - 1
         return self.word2idx[word]
+    
+    def init_unk(self):
+        self.idx2word.append('<UNK>')
+        self.word2idx['<UNK>'] = len(self.idx2word) - 1
 
     def __len__(self):
         return len(self.idx2word)
 
 #this model doesn't embed them
-class StackedCorpus(object):
-    def __init__(self, path):
+# class StackedCorpus(object):
+#     def __init__(self, path):
 
-    def tokenize(self, path):
-        """Tokenizes a text file."""
-        assert os.path.exists(path)
-        # Add words to the dictionary
-        with open(path, 'r') as f:
-            tokens = 0
-            for line in f:
-                words = line.split() + ['<eos>']
-                tokens += len(words)
-                for word in words:
-                    self.dictionary.add_word(word)
+#     def tokenize(self, path):
+#         """Tokenizes a text file."""
+#         assert os.path.exists(path)
+#         # Add words to the dictionary
+#         with open(path, 'r') as f:
+#             tokens = 0
+#             for line in f:
+#                 words = line.split() + ['<eos>']
+#                 tokens += len(words)
+#                 for word in words:
+#                     self.dictionary.add_word(word)
 
-        # Tokenize file content
-        with open(path, 'r') as f:
-            ids = torch.LongTensor(tokens)
-            token = 0
-            for line in f:
-                words = line.split() + ['<eos>']
-                for word in words:
-                    ids[token] = self.dictionary.word2idx[word]
-                    token += 1
+#         # Tokenize file content
+#         with open(path, 'r') as f:
+#             ids = torch.LongTensor(tokens)
+#             token = 0
+#             for line in f:
+#                 words = line.split() + ['<eos>']
+#                 for word in words:
+#                     ids[token] = self.dictionary.word2idx[word]
+#                     token += 1
 
-        return ids
+#         return ids
 
     
 class Corpus(object):
@@ -60,7 +64,8 @@ class Corpus(object):
         self.dictionary = Dictionary()
         if language is not None:
             self.pretrained = self.add_pretrained(os.path.join(path, 'wiki.' + language + '.vec'))
-        self.train = self.tokenize(os.path.join(path, 'valid.txt'))
+            self.dictionary.init_unk()
+        self.train = self.tokenize(os.path.join(path, 'train.txt'))
         self.valid = self.tokenize(os.path.join(path, 'valid.txt'))
         self.test = self.tokenize(os.path.join(path, 'test.txt'))
 
@@ -87,22 +92,24 @@ class Corpus(object):
     def tokenize(self, path):
         """Tokenizes a text file."""
         assert os.path.exists(path)
-        # Add words to the dictionary
+        Add words to the dictionary
         with open(path, 'r') as f:
             tokens = 0
             for line in f:
                 words = line.split() + ['<eos>']
                 tokens += len(words)
-                for word in words:
-                    self.dictionary.add_word(word)
+                #for word in words:
+                    #self.dictionary.add_word(word)
 
         # Tokenize file content
         with open(path, 'r') as f:
-            ids = torch.LongTensor(tokens)
+            ids = torch.LongTensor(tokens) #last one is UNK
             token = 0
             for line in f:
                 words = line.split() + ['<eos>']
                 for word in words:
+                    if word not in word2idx:
+                        word = '<UNK>'
                     ids[token] = self.dictionary.word2idx[word]
                     token += 1
 
