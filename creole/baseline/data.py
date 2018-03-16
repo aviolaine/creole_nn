@@ -17,11 +17,15 @@ class Dictionary(object):
                 self.idx2word.append(word)
                 self.word2idx[word] = len(self.idx2word) - 1
         else:
-            self.pretrain_vec.append(vec)
             if word not in self.word2idx:
+                self.pretrain_vec.append(vec)
                 self.idx2word.append(word)
                 self.word2idx[word] = len(self.idx2word) - 1
         return self.word2idx[word]
+
+    def init_unk(self):
+        self.idx2word.append('<UNK>')
+        self.word2idx['<UNK>'] = len(self.idx2word) - 1
 
     def __len__(self):
         return len(self.idx2word)
@@ -32,6 +36,7 @@ class Corpus(object):
         self.dictionary = Dictionary()
         if language is not None:
             self.pretrained = self.add_pretrained(os.path.join(path, 'wiki.' + language + '.vec'))
+            self.dictionary.init_unk()
         self.train = self.tokenize(os.path.join(path, 'train.txt'))
         self.valid = self.tokenize(os.path.join(path, 'valid.txt'))
         self.test = self.tokenize(os.path.join(path, 'test.txt'))
@@ -65,8 +70,8 @@ class Corpus(object):
             for line in f:
                 words = line.split() + ['<eos>']
                 tokens += len(words)
-                for word in words:
-                    self.dictionary.add_word(word)
+                #for word in words:
+                    #self.dictionary.add_word(word)
 
         # Tokenize file content
         with open(path, 'r') as f:

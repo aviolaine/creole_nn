@@ -11,8 +11,8 @@ from nltk.tokenize import sent_tokenize
 data = sent_tokenize(data)
 #np.random.shuffle(data)
 
-#n = len(data)
-n = 5000
+n = len(data)
+#n = 5000
 artificial = True
 print("length of data:", n)
 train_end = int(.6*n)
@@ -28,15 +28,27 @@ print("length of train:",len(train_data))
 print("length of valid:",len(valid_data))
 print("length of test:",len(test_data))
 
+import re
+
 with open('train.txt','w') as f:
     for s in train_data:
+        s = re.sub('([.,!?()])', r' \1 ', s)
+        s = re.sub('\s{2,}', ' ', s)
+        #s = list(s)
+        #if s[len(s)-1] == '.':
+            #s[len(s)-1] = ' '
+            #s+='.'
         f.write(s+'\n')
 
 with open('valid.txt','w') as f:
     for s in valid_data:
+        s = re.sub('([.,!?()])', r' \1 ', s)
+        s = re.sub('\s{2,}', ' ', s)
         f.write(s+'\n')
 
 with open('test.txt','w') as f:
     for s in test_data:
+        s = re.sub('([.,!?()])', r' \1 ', s)
+        s = re.sub('\s{2,}', ' ', s)
         f.write(s+'\n')
         
