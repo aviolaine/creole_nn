@@ -1,252 +1,133 @@
-Bêafrîka agä koddorosêse kpâa na 1 / 12 / 1958 , sï agä ndepandäa na 13 / 8 / 1960 . 
-Nî laâ matânga tî letäa ayeke lahngo ôko tî kakawaka na lahngo balë-ôko na otâ tî Kukkuru . 
-Mîngi nî abûngbi matânga ûse sô kwê tî sâra gï na kôzo lahngo tî kakawaka . 
-Konnongo tî lê nî ayeke Sm2 623 . 000 ( dîko nî : sâkimêtere sênî ûse , sâki ngbangbo omenë na balë-ûse na otâ ) . 
-Wuhngo tî âzo nî ayeke : 3 . 742 . 482 . 
-Kûtu otâ nd ndö nî sâki ngbangbo mbârrâmbara na balë-usyo na ûse , na ndö nî ngbangbo usyo na balëmeambe na ûse . 
-Ngbêreyê na 1991 , âyângâ tî letä ayeke : sahngo na farânzi ûse kwê . 
-Tohgbata nî ayeke : Bangî , sô âzo tî yâ nî awü töngana sâki ngbangbo omenë ( 600 . 000 ) . 
-Tömbai nî ayeke : Bûngbi-ôko , Nehngo-terê , Kusâra . 
-Byângunu ( wala byâlombë ) nî ayeke E zîngo . 
-Sêse tî kömändâ-kötä tî Bamïngï-Bangoran yeke sêse tî kömändâ-kötä nî ayeke tî Ködörösêse tî Bêafrîka . 
-Wuhngo tî âzo nî ayeke 38 , 437 . 
-Sêse tî kömändâ-kötä tî Do-Kötö yeke sêse tî kömändâ-kötä nî ayeke tî Ködörösêse tî Bêafrîka . 
-Wuhngo tî âzo nî ayeke 203 , 887 . 
-Sêse tî kömändâ-kötä tî Tö-Kötö yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
-Wuhngo tî âzo nî ayeke 69 , 514 . 
-Sêse tî kömändâ-kötä tî Tö-Mbömü yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
-Wuhngo tî âzo nî ayeke 38 , 184 . 
-Sêse tî kömändâ-kötä tî Kemö yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
-Wuhngo tî âzo nî ayeke 98 , 881 . 
-Sêse tî kömändâ-kötä tî Lobâye yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
-Wuhngo tî âzo nî ayeke 214 , 137 . 
-Sêse tî kömändâ-kötä tî Mambere-Kadei yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
-Wuhngo tî âzo nî ayeke 289 , 688 . 
-Sêse tî kömändâ-kötä tî Mbömü yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
-Wuhngo tî âzo nî ayeke 132 , 740 . 
-Sêse tî kömändâ-kötä tî Nanä-Mambere yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
-Wuhngo tî âzo nî ayeke 184 , 594 . 
-Sêse tî kömändâ-kötä tî Ömbëlä-Pökö yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
-Wuhngo tî âzo nî ayeke 304 , 025 . 
-Sêse tî kömändâ-kötä tî Wäkä yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
-Wuhngo tî âzo nî ayeke 224 , 076 . 
-Sêse tî kömändâ-kötä tî Wâmo yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
-Wuhngo tî âzo nî ayeke 280 , 772 . 
-Sêse tî kömändâ-kötä tî Wâmo-Pendë yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
-Wuhngo tî âzo nî ayeke 325 , 567 . 
-Sêse tî kömändâ-kötä tî Vakaga yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
-Wuhngo tî âzo nî ayeke 37 , 595 . 
-Sêse tî kömändâ-kötä tî Nanä-Gïrïbïzï yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
-Wuhngo tî âzo nî ayeke 132 , 740 . 
-Sêse tî kömändâ-kötä tî Sangä-Mbaere yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
-Wuhngo tî âzo nî ayeke 89 , 871 . 
-Kötä gbätä tî Bangî yeke kötä gbätä nî ayeke tî Bêafrîka . 
-Wuhngo tî âzo nî ayeke 622 , 771 . 
-E Zîngo ( La Renaissance ) :
-Bêafrîka , mbeso tî âBantu
-Kîri mo gbû gîgî tî mo-mvenî
-Mo bâa pâsi na gbe tî âzo kûê
-Me fadësô , mo ke na kürü gô
-Mo sö benda , mo bûngbi kûê ôko
-Na kusâra ngâ na nëngö-terê
-Tî tö ndâ tî finî dutï tî ë sô
-E mä gbegô tî-âkötarä tî ë
-E gbû kua nzönî na nëngö-terê
-E kpë ndiä nzönî na mängö-terê
-E kinda wasïöbê , ë tomba pâsi
-E yâa bandêra tî ködrö tî ë ! 
-Bimbo yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Ömbëlä-Pökö . 
-Wuhngo tî âzo nî ayeke 124 , 176 . 
-Mbati yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Lobâye . 
-Wuhngo tî âzo nî ayeke 66 , 500 . 
-Bereberäti yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Mambere-Kadei . 
-Wuhngo tî âzo nî ayeke 76 , 918 . 
-Kaga-Bandoro yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Nanä-Gïrïbïzï . 
-Wuhngo tî âzo nî ayeke 57 , 000 . 
-Bozûmo yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Wâmo-Pendë . 
-Wuhngo tî âzo nî ayeke 40 , 000 . 
-Carnot yeke gbata nî ayeke tî Ködörösêse tî Bêafrîka . 
-Wuhngo tî âzo nî ayeke 45 , 421 . 
-Sibîti yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Kemö . 
-Wuhngo tî âzo nî ayeke 34 , 267 . 
-Bämbärî yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Wäkä . 
-Wuhngo tî âzo nî ayeke 94 454 . 
-Bria yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Tö-Kötö . 
-Wuhngo tî âzo nî ayeke 54 685 . 
-Bängâsu yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Mbömü . 
-Wuhngo tî âzo nî ayeke 31 , 553 . 
-Ndëlë yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Bamïngï-Bangoran . 
-Wuhngo tî âzo nî ayeke 12 , 000 . 
-Mobaye yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Do-Kötö . 
-Wuhngo tî âzo nî ayeke 19 , 500 . 
-Obo yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Tö-Mbömü . 
-Wuhngo tî âzo nî ayeke 21 350 . 
-Buâra yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Nanä-Mambere . 
-Wuhngo tî âzo nî ayeke 40 , 300 . 
-Bosangoa yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Wâmo . 
-Wuhngo tî âzo nî ayeke 36 , 500 . 
-Biraö yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Vakaga . 
-Wuhngo tî âzo nî ayeke 10 , 000 . 
-Nola yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Sangä-Mbaere . 
-Wuhngo tî âzo nî ayeke 29 , 181 . 
-Ködörösêse tî Sâde ( wala Ködörösêse tî Tyâde ) Sâde yeke sêse nî ayeke tî Afrîka . 
-Wuhngo tî âzo nî ayeke 11 , 206 , 000 . 
-A-Témoin ti Jéhovah - laâ mbênî lêgë ti vorongo ti nzapa . 
-Ânï kö mäbë töngö nî Bîbili . 
-Längö tî yenga na yeke mbârâmbârâ:
-Ködörösêse tî Kongöo yeke sêse nî ayeke tî Afrîka . 
-Wuhngo tî âzo nî ayeke 2 . 954 . 258 . 
-Kùodùorùosêse tî Ngunuhalëzo tî Kongö yeke sêse nî ayeke tî Afrîka . 
-Wuhngo tî âzo nî ayeke 78 736 153 ( 2016 ) . 
-Afrîka-Mbongo yeke sêse nî ayeke tî Afrîka . 
-Wuhngo tî âzo nî ayeke 54 . 956 . 900 . 
-Ködörösêse tî Italùii yeke sêse nî ayeke tî Aêropa . 
+Âwandokua sô ayeke bâa lêgë tî yângâ nî na Bangî kâ angbâ tî sâra kua na ndö nî tîtene alîngbi na fängö-yê na dambëtï nzönî . Lafabëe tî Sängö yeke na balë ûse na ûse labitäniSängö yeke na otâ sêgôNze tî ngu na yeke baleoko na osse:Wuhngo tî âzo nî ayeke 5 . 761 . Ködörösêse tî Bêafrîka yeke sêse nî ayeke tî Afrîka . 
+Tî lo bîâ , laâ La Renaissance ( E Zingo ) . 
+Wuhngo tî âzo nî ayeke 4 , 422 , 000 . aKötä-ködörö tî Ködörösêse tî Bêafrîka yeke Bangui . 
+Nî Wäkpalëködörö Mahamat Kamoun . Nî laâ matânga tî letäa ayeke lahngo ôko tî kakawaka na lahngo balë-ôko na otâ tî Kukkuru . 
+Mîngi nî abûngbi matânga ûse sô kwê tî sâra gï na kôzo lahngo tî kakawaka . Bêafrîka agä koddorosêse kpâa na 1 / 12 / 1958 , sï agä ndepandäa na 13 / 8 / 1960 . Nî laâ matânga tî letäa ayeke lahngo ôko tî kakawaka na lahngo balë-ôko na otâ tî Kukkuru . 
+Mîngi nî abûngbi matânga ûse sô kwê tî sâra gï na kôzo lahngo tî kakawaka . Konnongo tî lê nî ayeke Sm2 623 . 000 ( dîko nî : sâkimêtere sênî ûse , sâki ngbangbo omenë na balë-ûse na otâ ) . Wuhngo tî âzo nî ayeke : 3 . 742 . 482 . 
+Kûtu otâ nd ndö nî sâki ngbangbo mbârrâmbara na balë-usyo na ûse , na ndö nî ngbangbo usyo na balëmeambe na ûse . Ngbêreyê na 1991 , âyângâ tî letä ayeke : sahngo na farânzi ûse kwê . Tohgbata nî ayeke : Bangî , sô âzo tî yâ nî awü töngana sâki ngbangbo omenë ( 600 . 000 ) . Tömbai nî ayeke : Bûngbi-ôko , Nehngo-terê , Kusâra . Byângunu ( wala byâlombë ) nî ayeke E zîngo . Sêse tî kömändâ-kötä tî Bamïngï-Bangoran yeke sêse tî kömändâ-kötä nî ayeke tî Ködörösêse tî Bêafrîka . 
+Wuhngo tî âzo nî ayeke 38 , 437 . Sêse tî kömändâ-kötä tî Do-Kötö yeke sêse tî kömändâ-kötä nî ayeke tî Ködörösêse tî Bêafrîka . 
+Wuhngo tî âzo nî ayeke 203 , 887 . Sêse tî kömändâ-kötä tî Tö-Kötö yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
+Wuhngo tî âzo nî ayeke 69 , 514 . Sêse tî kömändâ-kötä tî Tö-Mbömü yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
+Wuhngo tî âzo nî ayeke 38 , 184 . Sêse tî kömändâ-kötä tî Kemö yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
+Wuhngo tî âzo nî ayeke 98 , 881 . Sêse tî kömändâ-kötä tî Lobâye yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
+Wuhngo tî âzo nî ayeke 214 , 137 . Sêse tî kömändâ-kötä tî Mambere-Kadei yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
+Wuhngo tî âzo nî ayeke 289 , 688 . Sêse tî kömändâ-kötä tî Mbömü yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
+Wuhngo tî âzo nî ayeke 132 , 740 . Sêse tî kömändâ-kötä tî Nanä-Mambere yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
+Wuhngo tî âzo nî ayeke 184 , 594 . Sêse tî kömändâ-kötä tî Ömbëlä-Pökö yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
+Wuhngo tî âzo nî ayeke 304 , 025 . Sêse tî kömändâ-kötä tî Wäkä yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
+Wuhngo tî âzo nî ayeke 224 , 076 . Sêse tî kömändâ-kötä tî Wâmo yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
+Wuhngo tî âzo nî ayeke 280 , 772 . Sêse tî kömändâ-kötä tî Wâmo-Pendë yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
+Wuhngo tî âzo nî ayeke 325 , 567 . Sêse tî kömändâ-kötä tî Vakaga yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
+Wuhngo tî âzo nî ayeke 37 , 595 . Sêse tî kömändâ-kötä tî Nanä-Gïrïbïzï yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
+Wuhngo tî âzo nî ayeke 132 , 740 . Sêse tî kömändâ-kötä tî Sangä-Mbaere yeke sêse tî kömändâ-kötä nî ayeke tî Bêafrîka . 
+Wuhngo tî âzo nî ayeke 89 , 871 . Kötä gbätä tî Bangî yeke kötä gbätä nî ayeke tî Bêafrîka . 
+Wuhngo tî âzo nî ayeke 622 , 771 . E Zîngo ( La Renaissance ) :Bêafrîka , mbeso tî âBantuKîri mo gbû gîgî tî mo-mvenîMo bâa pâsi na gbe tî âzo kûêMe fadësô , mo ke na kürü gôMo sö benda , mo bûngbi kûê ôkoNa kusâra ngâ na nëngö-terêTî tö ndâ tî finî dutï tî ë sôE mä gbegô tî-âkötarä tî ëE gbû kua nzönî na nëngö-terêE kpë ndiä nzönî na mängö-terêE kinda wasïöbê , ë tomba pâsiE yâa bandêra tî ködrö tî ë ! Bimbo yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Ömbëlä-Pökö . 
+Wuhngo tî âzo nî ayeke 124 , 176 . Mbati yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Lobâye . 
+Wuhngo tî âzo nî ayeke 66 , 500 . Bereberäti yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Mambere-Kadei . 
+Wuhngo tî âzo nî ayeke 76 , 918 . Kaga-Bandoro yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Nanä-Gïrïbïzï . 
+Wuhngo tî âzo nî ayeke 57 , 000 . Bozûmo yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Wâmo-Pendë . 
+Wuhngo tî âzo nî ayeke 40 , 000 . Carnot yeke gbata nî ayeke tî Ködörösêse tî Bêafrîka . 
+Wuhngo tî âzo nî ayeke 45 , 421 . Sibîti yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Kemö . 
+Wuhngo tî âzo nî ayeke 34 , 267 . Bämbärî yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Wäkä . 
+Wuhngo tî âzo nî ayeke 94 454 . Bria yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Tö-Kötö . 
+Wuhngo tî âzo nî ayeke 54 685 . Bängâsu yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Mbömü . 
+Wuhngo tî âzo nî ayeke 31 , 553 . Ndëlë yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Bamïngï-Bangoran . 
+Wuhngo tî âzo nî ayeke 12 , 000 . Mobaye yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Do-Kötö . 
+Wuhngo tî âzo nî ayeke 19 , 500 . Obo yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Tö-Mbömü . 
+Wuhngo tî âzo nî ayeke 21 350 . Buâra yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Nanä-Mambere . 
+Wuhngo tî âzo nî ayeke 40 , 300 . Bosangoa yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Wâmo . 
+Wuhngo tî âzo nî ayeke 36 , 500 . Biraö yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Vakaga . 
+Wuhngo tî âzo nî ayeke 10 , 000 . Nola yeke gbata nî ayeke tî Sêse tî kömändâ-kötä tî Sangä-Mbaere . 
+Wuhngo tî âzo nî ayeke 29 , 181 . Ködörösêse tî Sâde ( wala Ködörösêse tî Tyâde ) Sâde yeke sêse nî ayeke tî Afrîka . 
+Wuhngo tî âzo nî ayeke 11 , 206 , 000 . A-Témoin ti Jéhovah - laâ mbênî lêgë ti vorongo ti nzapa . 
+Ânï kö mäbë töngö nî Bîbili . Längö tî yenga na yeke mbârâmbârâ:Ködörösêse tî Kongöo yeke sêse nî ayeke tî Afrîka . 
+Wuhngo tî âzo nî ayeke 2 . 954 . 258 . Kùodùorùosêse tî Ngunuhalëzo tî Kongö yeke sêse nî ayeke tî Afrîka . 
+Wuhngo tî âzo nî ayeke 78 736 153 ( 2016 ) . Afrîka-Mbongo yeke sêse nî ayeke tî Afrîka . 
+Wuhngo tî âzo nî ayeke 54 . 956 . 900 . Ködörösêse tî Italùii yeke sêse nî ayeke tî Aêropa . 
 Tî lo likodoro Rome . 
-Wuhngo tî âzo nî ayeke 60 . 507 . 590 . 
-Laâ mbênî mayëre tî bïngö-bê . 
-Mbênî wüngö-ïrï wandarä â Confucius . 
-Nömörö töngö pärä na gümbâyä töngasô fafa terê amayele
-Gerêpa na lê tî ndoto tî lamêre yeke alëngbïngö gbägbära hên ayongôro tî gbätä , ködörö , kägä na hötö . 
-Faustin-Archange Touadéra ( Bangui 21 ngubë 1957 ) yeke wäkpalëködörö wabêafrîca tâkâ gbenyôgbïä tî Bêafrîka dipîi sô nyenye 2008 . 
-Nowy Dwór Królewski yeke ködörö tî Pölôni sito na nî gbeködörö tî Kujawko-Pomorskie sêngbö tî Chelmno . 
-Nî ködörö yeke kî na nî fö tângo . 
-Na hïngängö bîanî atene nëngö terê tî zo na lïngbïngö terê tî ângangü tî lo laâ sï ayeke na gündâ tî zarä , tî nzönî ngbanga na tî sîrîrî na ndö tî dûnîa , Na hïngängö nî pëpëe na këngö ândiä tî bata nëngö terë tî zo laâ adü kpälë tî birä sô abi ngonzo na bê tî âhalëzo , ngâ sï gängö tî mbênî finî ködörö sô âhalëzo kûe alîngbi tî tene tënë tî bê tî âla , tî mäbê tî âla afa nî töngana taâ kötä bêkü tî âzo tî ndö tî gïgî , Ayeke kötä yê mîngi tî tene azî lë na ndö tî ândiä tî bata nëngö terê tî zo gï na lëngö mbênî gerê tî ndiä ndâli tî sïönî sêgbïä na lëngö pâsi , Na hïngängö nî atene ayeke kötä yê mîngi tî mû ngangü na mäïngö tî lëngö söngö na pöpö tî ködörö ndê ndê , Na hïngängö nî atene na yâ tî sêndiä halëzo tî bêndo tî gïgî afa tî finî nî mäbê tî âla na âtaâ ndiä tî zo , na nëngö terë ngâ na kötä tî zo na lïngbïngö terê tî ângangü tî kôlï na wâlï , sï âla atene ânï yeke sâra ngangü kûê tî mäïngö tî sêdutï tî zo na lëngö ânzönî lêgë tî dutï na yâ tî mbênî kötä zarä , Na hïngängö nî atene âködörö sô abûngbi amû yângâ tî lë kpëngö ndiä tî bata nëngö terë tî zo na zarä tî lo na yâ tî kua tî mabôko na mabôko na bûngbi tî bêndo tî gïgî , Na hïngängö atene mängbïngö bê na ândiä sô na âzarä sô ngâ ayeke bîanî ngangü yê mîngi tî sâra kua sô gï na pekö tî yângâ sô âla mû , Dêpä tî pöpöködörö tî bätängö nëngö terê tî zo sô
-töngana kunibê sô halëzo na âködörö kûê alîngbi tî wara , sî âzo kûê ngâ na âkûndû tî bôso kûê asâra ngangü , na lêgë tî fängö mbëtï na fängö-ndo , tî lë kpëngö ândiä na âzarä sô ngâ tî sâra na kodë tî ândiä tî ködörö wala tî pöpöködörö tî tene ayêka nî ngâ sï alë tambûla nî na ndo kûe , na pöpö tî halëzo na letäa nî sô alü mbere nî , töngana âla sô angbâ na gbe tî lê tî âla . 
-Adü âzo kûê yamba , ngâ âla lîngbi terê na lêgë tî nëngö-terê na tî ângangü . 
-Ala kûê awara ndarä na börö-li sï âla lîngbi tî dutï na âmbâ tî âla gï na lêngö söngö . 
-Zo ôko ôko alîngbi tî pîka kate na ndö tî ângangü sô dêpä avûnga , na särängö kângbi ôko pëpë wala na ndö tî tenë tî marä , wala tî nzorôko tî terê wala tî ndiä wala tî kôlï na wâlï tî yângâ ködörö wala tî mosoro , tî ndo tî düngö wala tî marä dutï , Na ndönî kûê , alîngbi tî sâra mbênî kângbi ôko pëpë sô alöndö na ndö tî tënë tî porosö wala tî ndiä wala tî pöpöködörö , tî mbênî zo wala tî mbênî ködörö nî sô alîngbi tî dutï lipandä wala na gbe lê tî mbênî ködörö wala sô ayeke na kpälë tî sêgbïä . 
-Zo kûê ayeke na ngangü tî dutï na finî tî lo , tî dutï yamba na tî dutï na mbeto tî wara sïönî pëpëe . 
-Zo ôko alîngbi tî dutï na gbe tî ngbâa pëpëe . 
-Akânga lêgë bîanî na dutï tî ngbäa ngâ na dëngö buzë tî kängö zo na ngbâa . 
-Zo ôko alîngbi tî sâra mbâ tî lo na pâsi tî ponön wala na pâsi tî finön pëpëe . 
-Zo kûê ayeke na ngangü tî tene ndiä abata lo na âsïönî lâkûê na ndo kûê . 
-Azo kûe alîngbi terê na lê tî ndiä , ngâ âla yeke na ngangü lêgë ôko na särängö kângbi ôko pëpëe . 
-Amû na âla ngangü na sêbätängö terë lêgë ôko , na tënë tî kângbi tî marä sô alîngbi tî fîngi dêpä sô ngâ na tënë tî gïngö lêgë tî kângbi tî marä sô . 
-Zo kûê alîngbi tî lï ngbanga na âdangbanga tî ködörö tî lo töngana âzo akpë pëpëe ângangü sô sêndiä tî ködörö tî lo amû na lo . 
-Alîngbi ôko pëpëe tî gbû zo na kânga wala tî bata lo na kânga wala tî tokua zo yongôro na ködörö tî lo gï sêngê sêngê , töngana ndâ nî ayeke da pëpëe . 
-Zo kûê ayeke na ngangü , lêgë ôko na âmbâ tî lo , tî tene amä polêlê tënë tî yângâ tî lo na lê tî boro ngbanga sô fadë afa ânde wala ângangü wala âkuandiä tî lo wala töngana pängö ïrï na tënë sô alï ngbanga da na ndö tî lo sô ayeke mbîrîmbîrî . 
-Alîngbi ôko pëpëe tî yôro terê na mbänä na yâ tî sêdutï tî zo wala tî sëwa tî lo wala tî da tî lo wala tî dîko mbëtïsû tî lo . 
+Wuhngo tî âzo nî ayeke 60 . 507 . 590 . Laâ mbênî mayëre tî bïngö-bê . 
+Mbênî wüngö-ïrï wandarä â Confucius . Nömörö töngö pärä na gümbâyä töngasô fafa terê amayeleGerêpa na lê tî ndoto tî lamêre yeke alëngbïngö gbägbära hên ayongôro tî gbätä , ködörö , kägä na hötö . Faustin-Archange Touadéra ( Bangui 21 ngubë 1957 ) yeke wäkpalëködörö wabêafrîca tâkâ gbenyôgbïä tî Bêafrîka dipîi sô nyenye 2008 . Nowy Dwór Królewski yeke ködörö tî Pölôni sito na nî gbeködörö tî Kujawko-Pomorskie sêngbö tî Chelmno . 
+Nî ködörö yeke kî na nî fö tângo . Na hïngängö bîanî atene nëngö terê tî zo na lïngbïngö terê tî ângangü tî lo laâ sï ayeke na gündâ tî zarä , tî nzönî ngbanga na tî sîrîrî na ndö tî dûnîa , Na hïngängö nî pëpëe na këngö ândiä tî bata nëngö terë tî zo laâ adü kpälë tî birä sô abi ngonzo na bê tî âhalëzo , ngâ sï gängö tî mbênî finî ködörö sô âhalëzo kûe alîngbi tî tene tënë tî bê tî âla , tî mäbê tî âla afa nî töngana taâ kötä bêkü tî âzo tî ndö tî gïgî , Ayeke kötä yê mîngi tî tene azî lë na ndö tî ândiä tî bata nëngö terê tî zo gï na lëngö mbênî gerê tî ndiä ndâli tî sïönî sêgbïä na lëngö pâsi , Na hïngängö nî atene ayeke kötä yê mîngi tî mû ngangü na mäïngö tî lëngö söngö na pöpö tî ködörö ndê ndê , Na hïngängö nî atene na yâ tî sêndiä halëzo tî bêndo tî gïgî afa tî finî nî mäbê tî âla na âtaâ ndiä tî zo , na nëngö terë ngâ na kötä tî zo na lïngbïngö terê tî ângangü tî kôlï na wâlï , sï âla atene ânï yeke sâra ngangü kûê tî mäïngö tî sêdutï tî zo na lëngö ânzönî lêgë tî dutï na yâ tî mbênî kötä zarä , Na hïngängö nî atene âködörö sô abûngbi amû yângâ tî lë kpëngö ndiä tî bata nëngö terë tî zo na zarä tî lo na yâ tî kua tî mabôko na mabôko na bûngbi tî bêndo tî gïgî , Na hïngängö atene mängbïngö bê na ândiä sô na âzarä sô ngâ ayeke bîanî ngangü yê mîngi tî sâra kua sô gï na pekö tî yângâ sô âla mû , Dêpä tî pöpöködörö tî bätängö nëngö terê tî zo sôtöngana kunibê sô halëzo na âködörö kûê alîngbi tî wara , sî âzo kûê ngâ na âkûndû tî bôso kûê asâra ngangü , na lêgë tî fängö mbëtï na fängö-ndo , tî lë kpëngö ândiä na âzarä sô ngâ tî sâra na kodë tî ândiä tî ködörö wala tî pöpöködörö tî tene ayêka nî ngâ sï alë tambûla nî na ndo kûe , na pöpö tî halëzo na letäa nî sô alü mbere nî , töngana âla sô angbâ na gbe tî lê tî âla . Adü âzo kûê yamba , ngâ âla lîngbi terê na lêgë tî nëngö-terê na tî ângangü . 
+Ala kûê awara ndarä na börö-li sï âla lîngbi tî dutï na âmbâ tî âla gï na lêngö söngö . Zo ôko ôko alîngbi tî pîka kate na ndö tî ângangü sô dêpä avûnga , na särängö kângbi ôko pëpë wala na ndö tî tenë tî marä , wala tî nzorôko tî terê wala tî ndiä wala tî kôlï na wâlï tî yângâ ködörö wala tî mosoro , tî ndo tî düngö wala tî marä dutï , Na ndönî kûê , alîngbi tî sâra mbênî kângbi ôko pëpë sô alöndö na ndö tî tënë tî porosö wala tî ndiä wala tî pöpöködörö , tî mbênî zo wala tî mbênî ködörö nî sô alîngbi tî dutï lipandä wala na gbe lê tî mbênî ködörö wala sô ayeke na kpälë tî sêgbïä . Zo kûê ayeke na ngangü tî dutï na finî tî lo , tî dutï yamba na tî dutï na mbeto tî wara sïönî pëpëe . Zo ôko alîngbi tî dutï na gbe tî ngbâa pëpëe . 
+Akânga lêgë bîanî na dutï tî ngbäa ngâ na dëngö buzë tî kängö zo na ngbâa . Zo ôko alîngbi tî sâra mbâ tî lo na pâsi tî ponön wala na pâsi tî finön pëpëe . Zo kûê ayeke na ngangü tî tene ndiä abata lo na âsïönî lâkûê na ndo kûê . Azo kûe alîngbi terê na lê tî ndiä , ngâ âla yeke na ngangü lêgë ôko na särängö kângbi ôko pëpëe . 
+Amû na âla ngangü na sêbätängö terë lêgë ôko , na tënë tî kângbi tî marä sô alîngbi tî fîngi dêpä sô ngâ na tënë tî gïngö lêgë tî kângbi tî marä sô . Zo kûê alîngbi tî lï ngbanga na âdangbanga tî ködörö tî lo töngana âzo akpë pëpëe ângangü sô sêndiä tî ködörö tî lo amû na lo . Alîngbi ôko pëpëe tî gbû zo na kânga wala tî bata lo na kânga wala tî tokua zo yongôro na ködörö tî lo gï sêngê sêngê , töngana ndâ nî ayeke da pëpëe . Zo kûê ayeke na ngangü , lêgë ôko na âmbâ tî lo , tî tene amä polêlê tënë tî yângâ tî lo na lê tî boro ngbanga sô fadë afa ânde wala ângangü wala âkuandiä tî lo wala töngana pängö ïrï na tënë sô alï ngbanga da na ndö tî lo sô ayeke mbîrîmbîrî . Alîngbi ôko pëpëe tî yôro terê na mbänä na yâ tî sêdutï tî zo wala tî sëwa tî lo wala tî da tî lo wala tî dîko mbëtïsû tî lo . 
 Alîngbi pëpëe tî buba ïrï tî zo ngâ na wüngö tî ïrï tî lo . 
-Zo kûê ayeke na ngangü tî tene ndiä abata lo ngbanga tî âmarä kpälë töngasö . 
-Amû na zo kûe zarä tî bibê , tî boro-li na tî mäbê ; ngangü sô afa atene zo kûê ayeke na zarä tî gbîan mäbê tî lo , wala bibê tî lo ngâ na zarä tî fa polêlê mäbê ti lo , lo ôko wala na yâ tî mbênî bûngbi , polêlê wala koiko , na lêgë tî fängô mbëtï , tî särängö yê , tî vöröngö nzapä ngâ na särängö ângôbo . 
-Amû na zo kûê ngangü tî zarä tî bibê na tî särängö tënë . 
+Zo kûê ayeke na ngangü tî tene ndiä abata lo ngbanga tî âmarä kpälë töngasö . Amû na zo kûe zarä tî bibê , tî boro-li na tî mäbê ; ngangü sô afa atene zo kûê ayeke na zarä tî gbîan mäbê tî lo , wala bibê tî lo ngâ na zarä tî fa polêlê mäbê ti lo , lo ôko wala na yâ tî mbênî bûngbi , polêlê wala koiko , na lêgë tî fängô mbëtï , tî särängö yê , tî vöröngö nzapä ngâ na särängö ângôbo . Amû na zo kûê ngangü tî zarä tî bibê na tî särängö tënë . 
 Sô atene alîngbi tî doroko zo pëpëe ndâli tî âbibê tî lo . 
-Amû ngâ na zo kûê ngangü tî gi , tî wara na tî vûnga âsango na âkodë na âmarä lêgë kûê , na zïängö bê pëpëe na ndö tî tënë tî âmeka . 
-Zo kûê töngana wabôso tî halëzo ayeke na ngangü na kodëkua tî bätängö terë . 
-Alöndö na âbängö nzönî na pekö tî ângangü tî mosoro , tî zängbingörö terë , tî ndara sô ayeke kötä yê ndâli tî nëngö terê na boro mäïngö tî sëterë tî lo; gï na lêgë tî gbüngö mbîrîmbîri kua tî ködörö ngâ na tî tängbïngö kua na âködörö wandë sô abäa dôngôngbi na môsôrô tî ködörö ôko ôko . 
-Amû na zo kûe ngangü tî woterë tî lo , tî sâra ngîâ ngâ . 
-Sô atene alîngbi tî dë gï na lêgë nî längö kâpä tî kua ngâ na âlängö tî wöngö terê sô afûta nî . 
-Tî tene âzo akpë ângangü sô afa ge sô , ayeke nzönî mbênî dôngôngbi adu da sô alîngbi tî bata nî . 
-Dôngôngbi sô alîngbi tî dutï na yâ tî ködörö nî töngana na yâ tî dûnîa mobimba . 
-Mbênî ködörösêse ôko pëpëe wala mbênî zo tî gïgî ôko alîngbi pëpëe tî buba lêgë tî ândiä sô afa ge na yâ tî mbëtï-dêpä sô . 
-Anglëe Yângâködörö yeke yângâködörö tî Angletëre . 
-Lafabëe tî Anglëe yeke na balë ûse na ûse labitäni Laâ mbênî lêndo sêndâgî na mîngi yângâködörö kûê Sängö na Anglëe . 
-Tî pîri nî , dïngö ïrï töngana Wïkïpêdïyäa sô na yângâ tî sängö ayeke tênë sô ë lîngbi tî gi ayo pëpe . 
+Amû ngâ na zo kûê ngangü tî gi , tî wara na tî vûnga âsango na âkodë na âmarä lêgë kûê , na zïängö bê pëpëe na ndö tî tënë tî âmeka . Zo kûê töngana wabôso tî halëzo ayeke na ngangü na kodëkua tî bätängö terë . 
+Alöndö na âbängö nzönî na pekö tî ângangü tî mosoro , tî zängbingörö terë , tî ndara sô ayeke kötä yê ndâli tî nëngö terê na boro mäïngö tî sëterë tî lo; gï na lêgë tî gbüngö mbîrîmbîri kua tî ködörö ngâ na tî tängbïngö kua na âködörö wandë sô abäa dôngôngbi na môsôrô tî ködörö ôko ôko . Amû na zo kûe ngangü tî woterë tî lo , tî sâra ngîâ ngâ . 
+Sô atene alîngbi tî dë gï na lêgë nî längö kâpä tî kua ngâ na âlängö tî wöngö terê sô afûta nî . Tî tene âzo akpë ângangü sô afa ge sô , ayeke nzönî mbênî dôngôngbi adu da sô alîngbi tî bata nî . 
+Dôngôngbi sô alîngbi tî dutï na yâ tî ködörö nî töngana na yâ tî dûnîa mobimba . Mbênî ködörösêse ôko pëpëe wala mbênî zo tî gïgî ôko alîngbi pëpëe tî buba lêgë tî ândiä sô afa ge na yâ tî mbëtï-dêpä sô . Anglëe Yângâködörö yeke yângâködörö tî Angletëre . 
+Lafabëe tî Anglëe yeke na balë ûse na ûse labitäni Laâ mbênî lêndo sêndâgî na mîngi yângâködörö kûê Sängö na Anglëe . Tî pîri nî , dïngö ïrï töngana Wïkïpêdïyäa sô na yângâ tî sängö ayeke tênë sô ë lîngbi tî gi ayo pëpe . 
 Zo sô asû nî "Wïkïpêdïyäa" sô , hînga-äpe , kodê sô lo yeke dï nî na nî laâ . 
 Me zo alîngbi ngâ tî dï nî gï ndurü atene "Wïkïpêdïyäa" . 
-Sô laâ mbï wa tî mbï nî . 
-Wïkïpêdïyäa ayeke mbênî kodë tî kângbïngö hïngängö-ndo sô gbâ tî âzo kûtu na kûtu alîngbi tî bûngbi daä ôko sî zo kûê alîngbi tî wara tî manda . 
+Sô laâ mbï wa tî mbï nî . Wïkïpêdïyäa ayeke mbênî kodë tî kângbïngö hïngängö-ndo sô gbâ tî âzo kûtu na kûtu alîngbi tî bûngbi daä ôko sî zo kûê alîngbi tî wara tî manda . 
 penze tî hïngängö-yê sô zo ôko ôko ayeke tokua , âmbâ tî lo sô ahînga yê daä nzönî ayeke lônzi nî bîakü bîakü töngana ayeke kûê na lêgë nî pêpe . 
 Töngasô , hîo , penze tî hïngängö-yê sô alütï , sï zo alîngbi tî manda nî sân tî yû-ndo . 
-Pendere tî Wïkïpêdïyäa laâ . 
-Na yâ tî marä tî kängbïngö hïngängö-ndo töngana tî Wïkïpêdïyäa sô , kodê nî ayeke mîngi . 
-Âmbênî ayeke kêtê gbânda , töngana [Tikiwiki] , sï âmbênî ayeke bêtaâ kötä gbânda töngana Wïkïpêdïyäa sô . 
-Otoo yeke mbênî yê tî tambela . 
-A kûê bada , masüa na mopepe . 
-Laâ mbênî lêndo tënëbûku na mîngi yângâködörö kûê Sängö na Anglëe . 
+Pendere tî Wïkïpêdïyäa laâ . Na yâ tî marä tî kängbïngö hïngängö-ndo töngana tî Wïkïpêdïyäa sô , kodê nî ayeke mîngi . 
+Âmbênî ayeke kêtê gbânda , töngana [Tikiwiki] , sï âmbênî ayeke bêtaâ kötä gbânda töngana Wïkïpêdïyäa sô . Otoo yeke mbênî yê tî tambela . 
+A kûê bada , masüa na mopepe . Laâ mbênî lêndo tënëbûku na mîngi yângâködörö kûê Sängö na Anglëe . 
 Mbênî Sängö lêndo: Halëzo Ködörösêse tî Sînä yeke kömïnîsii sêse nî ayeke . 
-Wuhngo tî âzo nî ayeke 1 . 403 . 500 . 365 . 
-Laâ mbênî sêse . 
+Wuhngo tî âzo nî ayeke 1 . 403 . 500 . 365 . Laâ mbênî sêse . 
 Wuhngo tî âzo nî ayeke 31 . 852 . 000 . 
-Tî lo likodoro Kuala Lumpur . 
-Laâ mbênî zûa sêse . 
+Tî lo likodoro Kuala Lumpur . Laâ mbênî zûa sêse . 
 Wuhngo tî âzo nî ayeke 261 . 115 . 456 . 
-Tî lo likodoro Jakarta . 
-Laâ mbênî zegbe zûa sêse . 
+Tî lo likodoro Jakarta . Laâ mbênî zegbe zûa sêse . 
 Wuhngo tî âzo nî ayeke 5 . 607 . 300 . 
-Tî lo likodoro Sïngäpûru . 
-Laâ mbênî zûa sêse . 
+Tî lo likodoro Sïngäpûru . Laâ mbênî zûa sêse . 
 Wuhngo tî âzo nî ayeke 100 . 981 . 437 . 
-Tî lo likodoro Manila . 
-Laâ mbênî sêse . 
+Tî lo likodoro Manila . Laâ mbênî sêse . 
 Tî lo likodoro Bangkok . 
-Wuhngo tî âzo nî ayeke 68 . 863 . 514 ( 2016 ) . 
-King : Rama X
-Laâ mbênî zegbe sêse . 
+Wuhngo tî âzo nî ayeke 68 . 863 . 514 ( 2016 ) . King : Rama XLaâ mbênî zegbe sêse . 
 Wuhngo tî âzo nî ayeke 417 . 200 . 
-Tî lo likodoro Bandar Seri Begawan . 
-Laâ mbênî sêse . 
-Tî lo likodoro Dili . 
-Laâ mbênî sêse . 
+Tî lo likodoro Bandar Seri Begawan . Laâ mbênî sêse . 
+Tî lo likodoro Dili . Laâ mbênî sêse . 
 Wuhngo tî âzo nî ayeke 8 . 084 . 999 . 
-Tî lo likodoro Port Moresby . 
-Laâ mbênî zûa sêse . 
+Tî lo likodoro Port Moresby . Laâ mbênî zûa sêse . 
 Tî lo likodoro Suva . 
-Wuhngo tî âzo nî ayeke 849 . 000 . 
-Laâ mbênî sêse . 
-Tî lo likodoro Ottawa . 
-Laâ ngêli yângbö ngôrôngbi na zîa ngû na terê tî . 
-Pölôni yeke sêse nî ayeke tî Aêropa . 
+Wuhngo tî âzo nî ayeke 849 . 000 . Laâ mbênî sêse . 
+Tî lo likodoro Ottawa . Laâ ngêli yângbö ngôrôngbi na zîa ngû na terê tî . Pölôni yeke sêse nî ayeke tî Aêropa . 
 Wuhngo tî âzo nî ayeke 38 , 422 , 346 ( 2017 ) . 
-Tî lo likodoro Warsaw . 
-Laâ mbênî sêse . 
+Tî lo likodoro Warsaw . Laâ mbênî sêse . 
 Tî lo likodoro Zagreb . 
-Wuhngo tî âzo nî ayeke 4 , 154 , 200 . 
-Sêndâtongo yeke bâ na ndo tï mbênî ndagigi . 
-Nî nzönî ahon bängö na lege ti mbênî masinï . 
-Laâ mbênî sêse . 
+Wuhngo tî âzo nî ayeke 4 , 154 , 200 . Sêndâtongo yeke bâ na ndo tï mbênî ndagigi . 
+Nî nzönî ahon bängö na lege ti mbênî masinï . Laâ mbênî sêse . 
 Tî lo likodoro Cairo . 
 Wuhngo tî âzo nî ayeke 92 . 256 . 561 . . Laâ mbênî sêse . 
 Tî lo likodoro Kigali . 
-Wuhngo tî âzo nî ayeke 11 , 262 , 564 . 
-Laâ mbênî zûa sêse . 
+Wuhngo tî âzo nî ayeke 11 , 262 , 564 . Laâ mbênî zûa sêse . 
 Tî lo likodoro Antananarivo . 
-Wuhngo tî âzo nî ayeke 24 . 430 . 325 ( 2016 ) . 
-Laâ mbênî sêse . 
+Wuhngo tî âzo nî ayeke 24 . 430 . 325 ( 2016 ) . Laâ mbênî sêse . 
 Tî lo likodoro Libreville . 
-Wuhngo tî âzo nî ayeke 1 . 738 . 541 ( 2016 ) . 
-Laâ mbênî sêse . 
+Wuhngo tî âzo nî ayeke 1 . 738 . 541 ( 2016 ) . Laâ mbênî sêse . 
 Tî lo likodoro Nairobi . 
-Wuhngo tî âzo nî ayeke 46 . 661 . 552 ( 2016 ) . 
-Laâ mbênî sêse . 
+Wuhngo tî âzo nî ayeke 46 . 661 . 552 ( 2016 ) . Laâ mbênî sêse . 
 Tî lo likodoro Addis Ababa . 
-Wuhngo tî âzo nî ayeke 102 , 374 , 044 ( 2017 ) . 
-Sudäan yeke sêse nî ayeke tî Afrîka . 
+Wuhngo tî âzo nî ayeke 102 , 374 , 044 ( 2017 ) . Sudäan yeke sêse nî ayeke tî Afrîka . 
 Tî lo likodoro Khartoum . 
-Wuhngo tî âzo nî ayeke 40 . 235 . 000 . 
-Laâ mbênî sêse . 
+Wuhngo tî âzo nî ayeke 40 . 235 . 000 . Laâ mbênî sêse . 
 Tî lo likodoro Gaborone . 
-Wuhngo tî âzo nî ayeke 2 , 155 , 784 ( 2014 ) . 
-Laâ mbênî sêse . 
+Wuhngo tî âzo nî ayeke 2 , 155 , 784 ( 2014 ) . Laâ mbênî sêse . 
 Tî lo likodoro Yaoundé . 
-Wuhngo tî âzo nî ayeke 22 , 534 , 532 ( 2013 ) . 
-Laâ mbênî sêse . 
+Wuhngo tî âzo nî ayeke 22 , 534 , 532 ( 2013 ) . Laâ mbênî sêse . 
 Tî lo likodoro Lilongwe . 
-Wuhngo tî âzo nî ayeke 16 . 407 . 000 ( 2013 ) . 
-Laâ mbênî sêse . 
+Wuhngo tî âzo nî ayeke 16 . 407 . 000 ( 2013 ) . Laâ mbênî sêse . 
 Tî lo likodoro Monrovia . 
-Wuhngo tî âzo nî ayeke 4 . 503 . 000 ( 2015 ) . 
-Laâ mbênî sêse . 
+Wuhngo tî âzo nî ayeke 4 . 503 . 000 ( 2015 ) . Laâ mbênî sêse . 
 Tî lo likodoro Accra . 
-Wuhngo tî âzo nî ayeke 28 . 657 . 000 ( 2017 ) . 
-ÂKödörö-ôko tî Amerîka ( K . Ô . A ) yeke sêse nî ayeke tî Banga Amerîka . 
+Wuhngo tî âzo nî ayeke 28 . 657 . 000 ( 2017 ) . ÂKödörö-ôko tî Amerîka ( K . Ô . A ) yeke sêse nî ayeke tî Banga Amerîka . 
 Wuhngo tî âzo nî ayeke 309 , 147 , 000 . 
 Tî lo likodoro Washington D . C . . Laâ mbênî sêse . 
 Tî lo likodoro Harare . 
-Wuhngo tî âzo nî ayeke 14 546 961 . 
-Laâ mbênî sêse . 
+Wuhngo tî âzo nî ayeke 14 546 961 . Laâ mbênî sêse . 
 Tî lo likodoro Lusaka . 
-Wuhngo tî âzo nî ayeke 16 , 212 , 000 . 
-Laâ mbênî sêse . 
+Wuhngo tî âzo nî ayeke 16 , 212 , 000 . Laâ mbênî sêse . 
 Tî lo likodoro Rabat . 
-Wuhngo tî âzo nî ayeke 33 . 848 . 242 ( 2014 ) . 
-Laâ mbênî zûa sêse . 
+Wuhngo tî âzo nî ayeke 33 . 848 . 242 ( 2014 ) . Laâ mbênî zûa sêse . 
 Tî lo likodoro Victoria . 
-Wuhngo tî âzo nî ayeke 93 . 186 . 
-Laâ mbênî sêse . 
+Wuhngo tî âzo nî ayeke 93 . 186 . Laâ mbênî sêse . 
 Tî lo likodoro Tunis . 
-Wuhngo tî âzo nî ayeke 10 , 982 , 754 . 
-Lituanïi yeke sêse nî ayeke tî Aêropa . 
+Wuhngo tî âzo nî ayeke 10 , 982 , 754 . Lituanïi yeke sêse nî ayeke tî Aêropa . 
 Wuhngo tî âzo nî ayeke 2 . 810 . 865 . 
 Tî lo likodoro Vilnius . 
 Vilnius yeke tohgbata nî ayeke tî Lîtùanîäa . 
@@ -256,34 +137,16 @@ Rome yeke tohgbata nî ayeke tî Italùii .
 Wuhngo tî âzo nî ayeke 2 . 874 . 558 . 
 Ködrö tî Rome yeke könöngö tî agbânzi ködrö tî Italùii . 
 Jonava yeke tohgbata nî ayeke tî Lîtùanîäa . 
-Wuhngo tî âzo nî ayeke 34 . 528 . 
-Siligo yeke sêse nî ayeke tî Italùii . 
-Wuhngo tî âzo nî ayeke 891 . 
-Ndömbâ mbênî zîa nömörö penzo na sâra mbênî kötä nömörö . 
-Hebe Maria Camargo ( Taubaté , 8 mars 1929 ) est une présentatrice de télévision , actrice et chanteuse brésilien . 
-Osasco ( o’zasku ) yeke village nî ayeke tî Brésil . 
-Wuhngo tî âzo nî ayeke 718 , 646 ( 2009 ) . 
-Laâ mbênî sêse . 
+Wuhngo tî âzo nî ayeke 34 . 528 . Siligo yeke sêse nî ayeke tî Italùii . 
+Wuhngo tî âzo nî ayeke 891 . Ndömbâ mbênî zîa nömörö penzo na sâra mbênî kötä nömörö . Hebe Maria Camargo ( Taubaté , 8 mars 1929 ) est une présentatrice de télévision , actrice et chanteuse brésilien . Osasco ( o’zasku ) yeke village nî ayeke tî Brésil . 
+Wuhngo tî âzo nî ayeke 718 , 646 ( 2009 ) . Laâ mbênî sêse . 
 Tî lo likodoro Algeri . 
-Wuhngo tî âzo nî ayeke 40 . 400 . 000 ( 2016 ) . 
-Laâ mbênî sêse . 
+Wuhngo tî âzo nî ayeke 40 . 400 . 000 ( 2016 ) . Laâ mbênî sêse . 
 Tî lo likodoro Abuja . 
-Wuhngo tî âzo nî ayeke 188 . 462 . 640 ( 2015 ) . 
-Laâ mbênî sêse . 
+Wuhngo tî âzo nî ayeke 188 . 462 . 640 ( 2015 ) . Laâ mbênî sêse . 
 Tî lo likodoro Luanda . 
-Wuhngo tî âzo nî ayeke 25 . 789 . 024 ( 2014 ) . 
-Laâ mbênî sêse . 
+Wuhngo tî âzo nî ayeke 25 . 789 . 024 ( 2014 ) . Laâ mbênî sêse . 
 Tî lo likodoro Porto-Novo . 
-Wuhngo tî âzo nî ayeke 10 . 872 . 298 ( 2016 ) . 
-Laâ mbênî sêse . 
+Wuhngo tî âzo nî ayeke 10 . 872 . 298 ( 2016 ) . Laâ mbênî sêse . 
 Tî lo likodoro Ouagadougou . 
-Wuhngo tî âzo nî ayeke 17 , 322 , 796 ( 2017 ) . 
-Laâ mbênî sêse . 
-Tî lo likodoro Bujumbura . 
-Wuhngo tî âzo nî ayeke 11 . 178 . 921 ( 2015 ) . 
-Laâ mbênî sêse . 
-Tî lo likodoro Praia . 
-Wuhngo tî âzo nî ayeke 553 432 ( 2016 ) . 
-Laâ mbênî sêse . 
-Tî lo likodoro Moroni . 
-Wuhngo tî âzo nî ayeke 596 . 202 . 
+Wuhngo tî âzo nî ayeke 17 , 322 , 796 ( 2017 ) . Laâ mbênî sêse . 
