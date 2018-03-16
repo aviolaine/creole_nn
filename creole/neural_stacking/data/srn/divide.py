@@ -11,8 +11,8 @@ from nltk.tokenize import sent_tokenize
 data = sent_tokenize(data)
 #np.random.shuffle(data)
 
-#n = len(data)
-n = 100
+n = len(data)
+#n = 100
 artificial = True
 print("length of data:", n)
 train_end = int(.6*n)
