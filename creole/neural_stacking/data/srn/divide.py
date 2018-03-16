@@ -14,7 +14,6 @@ with open('wiki.txt', 'r') as f:
 from nltk.tokenize import sent_tokenize
 data = sent_tokenize(out)
 #np.random.shuffle(data)
-
 n = len(data)
 #n = 5000
 artificial = False
