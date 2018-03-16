@@ -226,7 +226,10 @@ try:
             # Anneal the learning rate if no improvement has been seen in the validation dataset.
             lr /= 4.0
 
+    import matplotlib
+    matplotlib.use('agg')
     import matplotlib.pyplot as plt
+
     fig = plt.figure()
     plt.plot(x,y)
     plt.title(args.first+'-'+args.second+':'+' Stage base')
@@ -417,7 +420,10 @@ try:
             # Anneal the learning rate if no improvement has been seen in the validation dataset.
             lr /= 4.0
 
+    import matplotlib
+    matplotlib.use('agg')
     import matplotlib.pyplot as plt
+
     fig = plt.figure()
     plt.plot(x,y)
     plt.title(args.first+'-'+args.second+':'+' Stage stacked')
